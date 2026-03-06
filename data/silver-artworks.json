@@ -58,5 +58,26 @@
     },
     "year": 2025,
     "featured": false
+  },
+  {
+    "id": "azure_seed_pendant",
+    "category": "silver",
+    "title": "Azure Seed on Silver Bough",
+    "concept": "본 작품은 겨울 끝자락의 차가운 공기 속에서 맺힌 신비로운 열매를 모티프로 합니다. 유연한 실버 곡선으로 표현된 나뭇가지와 그 끝에 매달린 카이아나이트는 자연의 유기적인 형태와 금속의 절제된 미학이 만나는 접점을 보여줍니다",
+    "material": "*Stone: Natural Blue Kyanite (Marquise Cut, Cats Eye effect)* Metal: Sterling Silver (925 Silver)* Chain: Silver Box Chain",
+    "technique": "* Hand Fabricated: 은판과 은선을 이용한 정교한 수공 세공* Satin Finish: 나뭇가지의 질감을 살리기 위해 매끄럽지만 광택이 절제된 표면을 만드는 새틴 피니쉬 적용* Bezel Setting: 원석의 푸른 빛과 형태를 강조하는 커스텀 베젤 세팅",
+    "collection": "The Whispering Nature (자연의 속삭임 시리즈)",
+    "exhibition": "자연의 찰나를 견고한 금속의 언어로 재해석한다. 'Azure Seed on Silver Bough'는 나뭇가지 끝에 맺힌 응축된 생명력을 시각화한 작업 시리즈의 작품이다.중심의 카이아나이트는 수직적 결을 통해 얼음과 같은 질감과 각도에 따라 변하는 캐츠아이 효과가 특징이다. 거친 실버 표면과 매끄러운 원석의 대비는 정지된 시간 속의 흐름을 대변하며, 현대 장신구가 지닌 조형적 서사성을 밀도 있게 전달한다.",
+    "images": {
+      "main": "/images/silver/azure_seed_pendant/main.jpeg",
+      "angles": [
+        "/images/silver/azure_seed_pendant/angle-1.jpeg",
+        "/images/silver/azure_seed_pendant/angle-2.jpeg",
+        "/images/silver/azure_seed_pendant/angle-3.jpeg",
+        "/images/silver/azure_seed_pendant/angle-4.jpeg"
+      ]
+    },
+    "year": 2025,
+    "featured": false
   }
 ]
