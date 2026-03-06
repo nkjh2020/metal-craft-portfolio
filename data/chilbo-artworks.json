@@ -1,0 +1,62 @@
+[
+  {
+    "id": "four-seasons-frame",
+    "category": "chilbo",
+    "title": "Four Seasons Frame",
+    "concept": "사계절의 색채를 칠보 유약으로 표현한 액자입니다. 봄의 연두, 여름의 청록, 가을의 적갈, 겨울의 은빛이 하나의 작품 안에 공존합니다.",
+    "material": "Copper, Vitreous Enamel, Silver Wire",
+    "technique": "Cloisonné Enamel, Kiln Firing, Wire Inlay",
+    "collection": "Seasons Series",
+    "exhibition": "2025 한국칠보공예대전 특선 | 2024 전통공예전시회",
+    "images": {
+      "main": "/images/chilbo/four-seasons-frame/main.jpg",
+      "angles": [
+        "/images/chilbo/four-seasons-frame/angle-1.jpg",
+        "/images/chilbo/four-seasons-frame/angle-2.jpg",
+        "/images/chilbo/four-seasons-frame/angle-3.jpg"
+      ]
+    },
+    "year": 2025,
+    "featured": true
+  },
+  {
+    "id": "lotus-mobile",
+    "category": "chilbo",
+    "title": "Lotus Mobile",
+    "concept": "연꽃의 개화 단계를 모빌로 표현했습니다. 바람에 흔들리며 빛을 받을 때마다 칠보의 색이 살아납니다.",
+    "material": "Copper, Transparent Enamel, Brass Wire",
+    "technique": "Champlevé Enamel, Multiple Firings, Metal Forming",
+    "collection": "Botanical Series",
+    "exhibition": "2024 현대공예전 | 2024 인사아트센터 기획전",
+    "images": {
+      "main": "/images/chilbo/lotus-mobile/main.jpg",
+      "angles": [
+        "/images/chilbo/lotus-mobile/angle-1.jpg",
+        "/images/chilbo/lotus-mobile/angle-2.jpg",
+        "/images/chilbo/lotus-mobile/angle-3.jpg"
+      ]
+    },
+    "year": 2024,
+    "featured": true
+  },
+  {
+    "id": "dawn-panel",
+    "category": "chilbo",
+    "title": "Dawn Panel",
+    "concept": "새벽 하늘이 붉게 물드는 순간을 그라데이션 칠보로 표현한 벽걸이 패널입니다.",
+    "material": "Copper, Opaque & Transparent Enamel",
+    "technique": "Wet Packing Enamel, Counter Enamel, Kiln Firing",
+    "collection": "Sky Series",
+    "exhibition": "2025 공예주간 기획전 | 2025 갤러리 아트원",
+    "images": {
+      "main": "/images/chilbo/dawn-panel/main.jpg",
+      "angles": [
+        "/images/chilbo/dawn-panel/angle-1.jpg",
+        "/images/chilbo/dawn-panel/angle-2.jpg",
+        "/images/chilbo/dawn-panel/angle-3.jpg"
+      ]
+    },
+    "year": 2025,
+    "featured": false
+  }
+]

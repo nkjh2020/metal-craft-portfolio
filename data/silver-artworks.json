@@ -1,0 +1,62 @@
+[
+  {
+    "id": "moonlight-ring",
+    "category": "silver",
+    "title": "Moonlight Ring",
+    "concept": "달빛이 잔잔한 수면 위에 비치는 순간을 포착했습니다. 문스톤의 반투명한 내부 광채가 달빛의 신비로움을 담아냅니다.",
+    "material": "Sterling Silver 925, Moonstone",
+    "technique": "Bezel Stone Setting, Hand Fabrication, Hammering",
+    "collection": "Celestial Series",
+    "exhibition": "2025 서울 공예주간 | 2024 홍대 아트갤러리 그룹전",
+    "images": {
+      "main": "/images/silver/moonlight-ring/main.jpg",
+      "angles": [
+        "/images/silver/moonlight-ring/angle-1.jpg",
+        "/images/silver/moonlight-ring/angle-2.jpg",
+        "/images/silver/moonlight-ring/angle-3.jpg"
+      ]
+    },
+    "year": 2025,
+    "featured": true
+  },
+  {
+    "id": "forest-earrings",
+    "category": "silver",
+    "title": "Forest Earrings",
+    "concept": "이른 아침 숲속에서 나뭇잎에 맺힌 이슬방울을 표현한 귀걸이. 라브라도라이트의 변광성이 빛의 반사를 재현합니다.",
+    "material": "Sterling Silver 925, Labradorite",
+    "technique": "Prong Setting, Wire Wrapping, Oxidizing",
+    "collection": "Nature Series",
+    "exhibition": "2024 공예트렌드페어 | 2024 인사동 공예갤러리",
+    "images": {
+      "main": "/images/silver/forest-earrings/main.jpg",
+      "angles": [
+        "/images/silver/forest-earrings/angle-1.jpg",
+        "/images/silver/forest-earrings/angle-2.jpg",
+        "/images/silver/forest-earrings/angle-3.jpg"
+      ]
+    },
+    "year": 2024,
+    "featured": true
+  },
+  {
+    "id": "tide-bracelet",
+    "category": "silver",
+    "title": "Tide Bracelet",
+    "concept": "조석의 리듬감을 파형 패턴으로 표현했습니다. 블루 토파즈가 깊은 바다의 색을 담아냅니다.",
+    "material": "Sterling Silver 925, Blue Topaz",
+    "technique": "Tension Setting, Reticulation, Polishing",
+    "collection": "Ocean Series",
+    "exhibition": "2025 한국공예대전 입선",
+    "images": {
+      "main": "/images/silver/tide-bracelet/main.jpg",
+      "angles": [
+        "/images/silver/tide-bracelet/angle-1.jpg",
+        "/images/silver/tide-bracelet/angle-2.jpg",
+        "/images/silver/tide-bracelet/angle-3.jpg"
+      ]
+    },
+    "year": 2025,
+    "featured": false
+  }
+]

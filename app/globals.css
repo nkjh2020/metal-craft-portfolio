@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500&display=swap');
+
+:root {
+  --background: #FAFAF8;
+  --foreground: #1C1917;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 작품 카드 hover 오버레이 */
+.artwork-card-overlay {
+  @apply absolute inset-0 bg-stone-900/0 transition-all duration-300 flex items-end p-4;
+}
+.artwork-card:hover .artwork-card-overlay {
+  @apply bg-stone-900/40;
+}
+.artwork-card-overlay span {
+  @apply text-white text-sm font-light tracking-wider opacity-0 transition-opacity duration-300 translate-y-2;
+}
+.artwork-card:hover .artwork-card-overlay span {
+  @apply opacity-100 translate-y-0;
+}
+
+/* 사진 스트립 선택 상태 */
+.photo-strip-item {
+  @apply cursor-pointer overflow-hidden rounded transition-all duration-200;
+}
+.photo-strip-item.selected {
+  @apply ring-2 ring-stone-700 ring-offset-2;
+}
+.photo-strip-item:hover:not(.selected) {
+  @apply opacity-80;
+}
+
+/* Masonry 그리드 */
+.masonry-grid {
+  columns: 2;
+  column-gap: 0.75rem;
+}
+@media (min-width: 768px) {
+  .masonry-grid {
+    columns: 3;
+    column-gap: 1rem;
+  }
+}
+.masonry-item {
+  break-inside: avoid;
+  margin-bottom: 0.75rem;
+}
+@media (min-width: 768px) {
+  .masonry-item {
+    margin-bottom: 1rem;
+  }
+}
