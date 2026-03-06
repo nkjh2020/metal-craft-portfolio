@@ -1,60 +1,128 @@
 [
   {
-    "id": "four-seasons-frame",
+    "id": "monstera-triptych",
     "category": "chilbo",
-    "title": "Four Seasons Frame",
-    "concept": "사계절의 색채를 칠보 유약으로 표현한 액자입니다. 봄의 연두, 여름의 청록, 가을의 적갈, 겨울의 은빛이 하나의 작품 안에 공존합니다.",
-    "material": "Copper, Vitreous Enamel, Silver Wire",
-    "technique": "Cloisonné Enamel, Kiln Firing, Wire Inlay",
-    "collection": "Seasons Series",
-    "exhibition": "2025 한국칠보공예대전 특선 | 2024 전통공예전시회",
+    "title": "Monstera Triptych",
+    "concept": "계절에 따라 달라지는 몬스테라 잎의 색을 칠보 유약으로 포착했습니다.\n파란 봄잎, 갈색 가을잎, 노란 여름잎 — 세 개의 패널이 시간의 흐름을 담습니다.\n같은 형태 안에 담긴 서로 다른 빛이 함께 걸릴 때 완성됩니다.",
+    "material": "Copper, Vitreous Enamel, Wood Frame",
+    "technique": "Cloisonné Enamel, Wet Packing, Multiple Kiln Firings",
+    "collection": "Botanical Series",
+    "exhibition": "2025 한국칠보공예대전 특선 | 2025 서울 공예주간 기획전",
     "images": {
-      "main": "/images/chilbo/four-seasons-frame/main.jpg",
-      "angles": [
-        "/images/chilbo/four-seasons-frame/angle-1.jpg",
-        "/images/chilbo/four-seasons-frame/angle-2.jpg",
-        "/images/chilbo/four-seasons-frame/angle-3.jpg"
-      ]
+      "main": "/images/chilbo/IMG_6278.jpeg",
+      "angles": []
     },
     "year": 2025,
     "featured": true
   },
   {
-    "id": "lotus-mobile",
+    "id": "botanical-frame",
     "category": "chilbo",
-    "title": "Lotus Mobile",
-    "concept": "연꽃의 개화 단계를 모빌로 표현했습니다. 바람에 흔들리며 빛을 받을 때마다 칠보의 색이 살아납니다.",
-    "material": "Copper, Transparent Enamel, Brass Wire",
-    "technique": "Champlevé Enamel, Multiple Firings, Metal Forming",
+    "title": "Botanical Frame",
+    "concept": "린넨 배경 위에 칠보로 만든 몬스테라 두 잎과 줄기 하나를 배치했습니다.\n자연에서 채집한 것처럼, 그러나 영원히 바래지 않도록.\n식물의 순간을 금속 위에 박제한 벽걸이 오브제입니다.",
+    "material": "Copper, Vitreous Enamel, Linen, Wood Frame",
+    "technique": "Champlevé Enamel, Wire Forming, Kiln Firing",
     "collection": "Botanical Series",
     "exhibition": "2024 현대공예전 | 2024 인사아트센터 기획전",
     "images": {
-      "main": "/images/chilbo/lotus-mobile/main.jpg",
-      "angles": [
-        "/images/chilbo/lotus-mobile/angle-1.jpg",
-        "/images/chilbo/lotus-mobile/angle-2.jpg",
-        "/images/chilbo/lotus-mobile/angle-3.jpg"
-      ]
+      "main": "/images/chilbo/21801.jpeg",
+      "angles": []
     },
     "year": 2024,
     "featured": true
   },
   {
-    "id": "dawn-panel",
+    "id": "seasonal-mobiles",
     "category": "chilbo",
-    "title": "Dawn Panel",
-    "concept": "새벽 하늘이 붉게 물드는 순간을 그라데이션 칠보로 표현한 벽걸이 패널입니다.",
-    "material": "Copper, Opaque & Transparent Enamel",
-    "technique": "Wet Packing Enamel, Counter Enamel, Kiln Firing",
-    "collection": "Sky Series",
-    "exhibition": "2025 공예주간 기획전 | 2025 갤러리 아트원",
+    "title": "Seasonal Mobiles",
+    "concept": "가을의 두 상징 — 호박과 단풍잎을 원형 프레임 속에 띄웠습니다.\n바람에 천천히 돌며 빛을 받을 때 칠보 유약의 색이 살아납니다.\n계절이 공간 안에서 흔들립니다.",
+    "material": "Copper, Transparent & Opaque Enamel, Steel Wire",
+    "technique": "Wet Packing Enamel, Wire Forming, Multiple Firings",
+    "collection": "Seasons Series",
+    "exhibition": "2025 갤러리 아트원 기획전",
     "images": {
-      "main": "/images/chilbo/dawn-panel/main.jpg",
-      "angles": [
-        "/images/chilbo/dawn-panel/angle-1.jpg",
-        "/images/chilbo/dawn-panel/angle-2.jpg",
-        "/images/chilbo/dawn-panel/angle-3.jpg"
-      ]
+      "main": "/images/chilbo/IMG_3416.jpeg",
+      "angles": []
+    },
+    "year": 2025,
+    "featured": false
+  },
+  {
+    "id": "ocean-mobile",
+    "category": "chilbo",
+    "title": "Ocean Mobile",
+    "concept": "고래, 거북이, 물고기, 가오리 — 바다 생물들이 한 줄에 매달려 유영합니다.\n각각 다른 칠보 색을 입혀 깊이에 따라 달라지는 바닷속 빛을 표현했습니다.\n흔들릴 때마다 작은 바다가 공간 안에 생깁니다.",
+    "material": "Copper, Transparent Enamel, Brass Wire, Pearl",
+    "technique": "Champlevé Enamel, Metal Cutting, Multiple Firings",
+    "collection": "Ocean Series",
+    "exhibition": "2024 공예트렌드페어 | 2024 인사동 공예갤러리",
+    "images": {
+      "main": "/images/chilbo/IMG_5386.jpeg",
+      "angles": []
+    },
+    "year": 2024,
+    "featured": false
+  },
+  {
+    "id": "autumn-flower-brooch",
+    "category": "chilbo",
+    "title": "Autumn Flower Brooch",
+    "concept": "가을 들판에서 마지막 빛을 받는 야생화를 칠보로 옮겼습니다.\n호박빛, 자주빛, 황금빛 유약이 겹쳐 꽃잎 하나하나가 살아있는 색을 냅니다.\n중심의 담수진주 한 알이 꽃의 심장을 완성합니다.",
+    "material": "Copper, Vitreous Enamel, Freshwater Pearl",
+    "technique": "Repoussé, Wet Packing Enamel, Kiln Firing",
+    "collection": "Flora Series",
+    "exhibition": "2025 한국칠보공예대전 입선",
+    "images": {
+      "main": "/images/chilbo/21381.jpeg",
+      "angles": []
+    },
+    "year": 2025,
+    "featured": false
+  },
+  {
+    "id": "leaf-incense-holder",
+    "category": "chilbo",
+    "title": "Leaf Incense Holder",
+    "concept": "잎사귀 형태의 칠보 오브제 — 향을 꽂으면 그 자체로 하나의 풍경이 됩니다.\n주황빛 구리와 초록 에나멜이 만나 낙엽 직전의 잎을 담았습니다.\n향 연기가 피어오를 때, 잎 위에 안개가 내리는 것 같습니다.",
+    "material": "Copper, Transparent & Opaque Enamel",
+    "technique": "Metal Forming, Wet Packing Enamel, Kiln Firing",
+    "collection": "Daily Objects Series",
+    "exhibition": "2024 현대공예전",
+    "images": {
+      "main": "/images/chilbo/23904.jpeg",
+      "angles": []
+    },
+    "year": 2024,
+    "featured": false
+  },
+  {
+    "id": "metal-leaf-brooch",
+    "category": "chilbo",
+    "title": "Metal Leaf Brooch",
+    "concept": "은빛, 구릿빛, 황금빛 — 세 가지 금속이 하나의 꽃잎 형태 안에 공존합니다.\n칠보 유약 없이 금속 자체의 색만으로 자연의 그라데이션을 구현했습니다.\n단순한 형태가 빛의 방향에 따라 다른 표정을 짓습니다.",
+    "material": "Copper, Brass, Nickel Silver",
+    "technique": "Metal Fabrication, Oxidizing, Brushed Finish",
+    "collection": "Flora Series",
+    "exhibition": "2024 인사아트센터 기획전",
+    "images": {
+      "main": "/images/chilbo/20094.jpeg",
+      "angles": []
+    },
+    "year": 2024,
+    "featured": false
+  },
+  {
+    "id": "flower-object",
+    "category": "chilbo",
+    "title": "Flower Object",
+    "concept": "나무 루버 사이에 피어난 금속 꽃 한 송이.\n구리, 황동, 실버를 꽃잎으로 만들어 공간에 심었습니다.\n계절이 없는 꽃, 시들지 않는 봄.",
+    "material": "Copper, Brass, Sterling Silver 925",
+    "technique": "Metal Cutting, Forming, Mixed Metal Assembly",
+    "collection": "Installation Series",
+    "exhibition": "2025 갤러리 아트원 기획전",
+    "images": {
+      "main": "/images/chilbo/20084.webp",
+      "angles": []
     },
     "year": 2025,
     "featured": false

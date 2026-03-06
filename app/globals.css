@@ -5,8 +5,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500&display=swap');
 
 :root {
-  --background: #FAFAF8;
-  --foreground: #1C1917;
+  --background: #F5F1EA;      /* 따뜻한 린넨 크림 */
+  --background-2: #EDE7DC;    /* 살짝 더 짙은 파치먼트 */
+  --foreground: #2C2925;
+  --sage: #6B8F6E;            /* 세이지 그린 */
+  --sage-light: #A8C5AA;
+  --stone-warm: #8C7B6E;
 }
 
 html {
@@ -20,29 +24,18 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* 작품 카드 hover 오버레이 */
-.artwork-card-overlay {
-  @apply absolute inset-0 bg-stone-900/0 transition-all duration-300 flex items-end p-4;
-}
-.artwork-card:hover .artwork-card-overlay {
-  @apply bg-stone-900/40;
-}
-.artwork-card-overlay span {
-  @apply text-white text-sm font-light tracking-wider opacity-0 transition-opacity duration-300 translate-y-2;
-}
-.artwork-card:hover .artwork-card-overlay span {
-  @apply opacity-100 translate-y-0;
-}
-
 /* 사진 스트립 선택 상태 */
 .photo-strip-item {
   @apply cursor-pointer overflow-hidden rounded transition-all duration-200;
 }
 .photo-strip-item.selected {
-  @apply ring-2 ring-stone-700 ring-offset-2;
+  @apply ring-2 ring-offset-2;
+  ring-color: var(--sage);
+  outline: 2px solid var(--sage);
+  outline-offset: 2px;
 }
 .photo-strip-item:hover:not(.selected) {
-  @apply opacity-80;
+  @apply opacity-75;
 }
 
 /* Masonry 그리드 */
@@ -64,4 +57,22 @@ body {
   .masonry-item {
     margin-bottom: 1rem;
   }
+}
+
+/* 자연스러운 구분선 */
+.divider-natural {
+  border-color: #DDD6CC;
+}
+
+/* Hero 섹션 자연 그라데이션 배경 */
+.hero-nature-bg {
+  background: linear-gradient(155deg, #EDE7DC 0%, #E4DDD2 40%, #D8D2C6 70%, #CFC8BC 100%);
+}
+
+/* 카테고리 카드 호버 */
+.category-card {
+  @apply relative overflow-hidden rounded-sm transition-all duration-500;
+}
+.category-card:hover .category-card-img {
+  @apply scale-105;
 }

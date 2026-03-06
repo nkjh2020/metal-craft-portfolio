@@ -1,73 +1,13 @@
 [
   {
-    "id": "moonlight-ring",
+    "id": "azure-seed-pendant",
     "category": "silver",
-    "title": "Moonlight Ring",
-    "concept": "달빛이 잔잔한 수면 위에 비치는 순간을 포착했습니다. 문스톤의 반투명한 내부 광채가 달빛의 신비로움을 담아냅니다.",
-    "material": "Sterling Silver 925, Moonstone",
-    "technique": "Bezel Stone Setting, Hand Fabrication, Hammering",
-    "collection": "Celestial Series",
-    "exhibition": "2025 서울 공예주간 | 2024 홍대 아트갤러리 그룹전",
-    "images": {
-      "main": "/images/silver/moonlight-ring/main.jpg",
-      "angles": [
-        "/images/silver/moonlight-ring/angle-1.jpg",
-        "/images/silver/moonlight-ring/angle-2.jpg",
-        "/images/silver/moonlight-ring/angle-3.jpg"
-      ]
-    },
-    "year": 2025,
-    "featured": true
-  },
-  {
-    "id": "forest-earrings",
-    "category": "silver",
-    "title": "Forest Earrings",
-    "concept": "이른 아침 숲속에서 나뭇잎에 맺힌 이슬방울을 표현한 귀걸이. 라브라도라이트의 변광성이 빛의 반사를 재현합니다.",
-    "material": "Sterling Silver 925, Labradorite",
-    "technique": "Prong Setting, Wire Wrapping, Oxidizing",
-    "collection": "Nature Series",
-    "exhibition": "2024 공예트렌드페어 | 2024 인사동 공예갤러리",
-    "images": {
-      "main": "/images/silver/forest-earrings/main.jpg",
-      "angles": [
-        "/images/silver/forest-earrings/angle-1.jpg",
-        "/images/silver/forest-earrings/angle-2.jpg",
-        "/images/silver/forest-earrings/angle-3.jpg"
-      ]
-    },
-    "year": 2024,
-    "featured": true
-  },
-  {
-    "id": "tide-bracelet",
-    "category": "silver",
-    "title": "Tide Bracelet",
-    "concept": "조석의 리듬감을 파형 패턴으로 표현했습니다. 블루 토파즈가 깊은 바다의 색을 담아냅니다.",
-    "material": "Sterling Silver 925, Blue Topaz",
-    "technique": "Tension Setting, Reticulation, Polishing",
-    "collection": "Ocean Series",
-    "exhibition": "2025 한국공예대전 입선",
-    "images": {
-      "main": "/images/silver/tide-bracelet/main.jpg",
-      "angles": [
-        "/images/silver/tide-bracelet/angle-1.jpg",
-        "/images/silver/tide-bracelet/angle-2.jpg",
-        "/images/silver/tide-bracelet/angle-3.jpg"
-      ]
-    },
-    "year": 2025,
-    "featured": false
-  },
-  {
-    "id": "azure_seed_pendant",
-    "category": "silver",
-    "title": "Azure Seed on Silver Bough",
-    "concept": "본 작품은 겨울 끝자락의 차가운 공기 속에서 맺힌 신비로운 열매를 모티프로 합니다. 유연한 실버 곡선으로 표현된 나뭇가지와 그 끝에 매달린 카이아나이트는 자연의 유기적인 형태와 금속의 절제된 미학이 만나는 접점을 보여줍니다",
-    "material": "*Stone: Natural Blue Kyanite (Marquise Cut, Cats Eye effect)* Metal: Sterling Silver (925 Silver)* Chain: Silver Box Chain",
-    "technique": "* Hand Fabricated: 은판과 은선을 이용한 정교한 수공 세공* Satin Finish: 나뭇가지의 질감을 살리기 위해 매끄럽지만 광택이 절제된 표면을 만드는 새틴 피니쉬 적용* Bezel Setting: 원석의 푸른 빛과 형태를 강조하는 커스텀 베젤 세팅",
-    "collection": "The Whispering Nature (자연의 속삭임 시리즈)",
-    "exhibition": "자연의 찰나를 견고한 금속의 언어로 재해석한다. 'Azure Seed on Silver Bough'는 나뭇가지 끝에 맺힌 응축된 생명력을 시각화한 작업 시리즈의 작품이다.중심의 카이아나이트는 수직적 결을 통해 얼음과 같은 질감과 각도에 따라 변하는 캐츠아이 효과가 특징이다. 거친 실버 표면과 매끄러운 원석의 대비는 정지된 시간 속의 흐름을 대변하며, 현대 장신구가 지닌 조형적 서사성을 밀도 있게 전달한다.",
+    "title": "Azure Seed Pendant",
+    "concept": "카이아나이트 원석의 납작하고 긴 씨앗 형태에서 영감을 받았습니다.\n자연이 수백만 년에 걸쳐 빚어낸 청회색 빛을 실버 베젤로 조용히 품었습니다.\n몸에 닿는 작은 자연 — 씨앗 하나를 가슴에 지닙니다.",
+    "material": "Sterling Silver 925, Kyanite",
+    "technique": "Bezel Setting, Hand Fabrication, Box Chain",
+    "collection": "Seed Series",
+    "exhibition": "2024 홍대 아트갤러리 그룹전",
     "images": {
       "main": "/images/silver/azure_seed_pendant/main.jpeg",
       "angles": [
@@ -77,7 +17,123 @@
         "/images/silver/azure_seed_pendant/angle-4.jpeg"
       ]
     },
+    "year": 2024,
+    "featured": true
+  },
+  {
+    "id": "lapis-oval-necklace",
+    "category": "silver",
+    "title": "Lapis Oval Necklace",
+    "concept": "밤하늘의 깊은 푸름을 돌 속에 가둔 것 같은 라피스라줄리.\n수평 바(bar)와 타원형 원석을 연결해 균형과 중력을 이야기합니다.\n절제된 형태 안에서 원석이 스스로 빛나도록 설계했습니다.",
+    "material": "Sterling Silver 925, Lapis Lazuli",
+    "technique": "Bezel Setting, Hand Fabrication, Cable Chain",
+    "collection": "Geometry Series",
+    "exhibition": "2025 서울 공예주간",
+    "images": {
+      "main": "/images/silver/IMG_5036.jpeg",
+      "angles": []
+    },
     "year": 2025,
+    "featured": true
+  },
+  {
+    "id": "turquoise-horizon",
+    "category": "silver",
+    "title": "Turquoise Horizon",
+    "concept": "수평선 너머 하늘과 바다가 만나는 빛깔을 터콰이즈에서 발견했습니다.\n아치형 실버 바가 원석을 부드럽게 받치며 자연의 곡선을 담아냅니다.\n여행 중 잠시 멈춰 바라본 수평선을 매일 목에 걸 수 있습니다.",
+    "material": "Sterling Silver 925, Turquoise",
+    "technique": "Bezel Setting, Forging, Cable Chain",
+    "collection": "Horizon Series",
+    "exhibition": "2025 한국공예대전 입선",
+    "images": {
+      "main": "/images/silver/IMG_5579.jpeg",
+      "angles": []
+    },
+    "year": 2025,
+    "featured": false
+  },
+  {
+    "id": "prehnite-c-ring",
+    "category": "silver",
+    "title": "Prehnite C Ring",
+    "concept": "이른 봄, 새싹이 터오르기 직전의 여린 연두색.\n프레나이트 원석을 C자형 실버 밴드로 감싸 개방감을 살렸습니다.\n완전히 닫히지 않은 형태가 여백과 여유를 이야기합니다.",
+    "material": "Sterling Silver 925, Prehnite",
+    "technique": "Bezel Setting, Hand Forming, Brushed Finish",
+    "collection": "Nature Series",
+    "exhibition": "2024 공예트렌드페어",
+    "images": {
+      "main": "/images/silver/IMG_6790.jpeg",
+      "angles": []
+    },
+    "year": 2024,
+    "featured": false
+  },
+  {
+    "id": "multi-layer-ring",
+    "category": "silver",
+    "title": "Multi Layer Ring",
+    "concept": "구리, 실버, 로즈골드의 여러 레이어를 하나로 겹쳤습니다.\n각기 다른 금속의 색감과 질감이 함께 쌓이며 새로운 리듬을 만듭니다.\n단 하나의 반지가 아닌, 여러 겹의 이야기를 손가락에 담습니다.",
+    "material": "Copper, Sterling Silver 925, Rose Gold Filled",
+    "technique": "Multi-Metal Fabrication, Forging, Stacking",
+    "collection": "Layer Series",
+    "exhibition": "2024 인사동 공예갤러리",
+    "images": {
+      "main": "/images/silver/IMG_4592.jpeg",
+      "angles": [
+        "/images/silver/IMG_8804.jpeg"
+      ]
+    },
+    "year": 2024,
+    "featured": false
+  },
+  {
+    "id": "geometric-facet-ring",
+    "category": "silver",
+    "title": "Geometric Facet Ring",
+    "concept": "광물의 결정 구조에서 영감을 받은 기하학적 반지.\n여섯 개의 면이 서로 다른 각도로 빛을 받아 매순간 표정이 달라집니다.\n자연의 정교함을 금속 위에 다시 새겼습니다.",
+    "material": "Brass",
+    "technique": "Fabrication, Faceting, Brushed Finish",
+    "collection": "Crystal Series",
+    "exhibition": "2024 홍대 아트갤러리 그룹전",
+    "images": {
+      "main": "/images/silver/IMG_7860.jpeg",
+      "angles": []
+    },
+    "year": 2024,
+    "featured": false
+  },
+  {
+    "id": "everyday-bangle",
+    "category": "silver",
+    "title": "Everyday Bangle",
+    "concept": "매일 아무 생각 없이 손목에 끼울 수 있는 뱅글을 만들고 싶었습니다.\n실버와 골드 두 가지 금속을 하나의 형태 안에서 결합해 경계를 흐렸습니다.\n일상 속에 조용히 자리하는 금속의 온기.",
+    "material": "Sterling Silver 925, Brass",
+    "technique": "Bending, Soldering, Mixed Metal, Polishing",
+    "collection": "Daily Series",
+    "exhibition": "2025 서울 공예주간",
+    "images": {
+      "main": "/images/silver/24316.jpeg",
+      "angles": []
+    },
+    "year": 2025,
+    "featured": false
+  },
+  {
+    "id": "scarf-ring",
+    "category": "silver",
+    "title": "Scarf Ring",
+    "concept": "스카프를 묶는 가장 우아한 방법을 실버로 만들었습니다.\n실크 스카프의 부드러운 물성과 금속의 단단함이 대비를 이루며 공존합니다.\n두르는 방식에 따라 형태가 달라지는 — 착용자의 손끝이 완성하는 주얼리.",
+    "material": "Sterling Silver 925, Brass",
+    "technique": "Tube Fabrication, Soldering, Polishing",
+    "collection": "Wearable Series",
+    "exhibition": "2024 공예트렌드페어",
+    "images": {
+      "main": "/images/silver/IMG_7873.jpeg",
+      "angles": [
+        "/images/silver/IMG_4174.jpeg"
+      ]
+    },
+    "year": 2024,
     "featured": false
   }
 ]

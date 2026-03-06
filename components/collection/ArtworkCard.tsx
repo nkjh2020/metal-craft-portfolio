@@ -14,31 +14,35 @@ export default function ArtworkCard({ artwork }: ArtworkCardProps) {
   const [imgError, setImgError] = useState(false)
 
   return (
-    <Link href={href} className="artwork-card masonry-item block relative group overflow-hidden rounded-sm">
-      <div className="relative w-full">
-        {/* 이미지 or 플레이스홀더 */}
-        <div className="relative w-full bg-stone-100 flex items-center justify-center" style={{ minHeight: '220px' }}>
-          {!imgError ? (
-            <Image
-              src={artwork.images.main}
-              alt={artwork.title}
-              width={600}
-              height={800}
-              className="w-full h-auto object-cover"
-              onError={() => setImgError(true)}
-            />
-          ) : (
-            <div className="w-full flex items-center justify-center text-stone-300 text-xs tracking-wider py-20">
+    <Link
+      href={href}
+      className="artwork-card masonry-item block relative group overflow-hidden rounded-sm bg-stone-50"
+    >
+      {/* 이미지: 자연 비율 그대로 표시 (masonry 효과) */}
+      {!imgError ? (
+        <div className="relative overflow-hidden">
+          <Image
+            src={artwork.images.main}
+            alt={artwork.title}
+            width={800}
+            height={1000}
+            className="w-full h-auto block transition-transform duration-500 group-hover:scale-[1.03]"
+            onError={() => setImgError(true)}
+          />
+          {/* 호버 오버레이: 하단 그라데이션 */}
+          <div className="absolute inset-0 bg-gradient-to-t from-stone-900/50 via-stone-900/0 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-3 md:p-4">
+            <span className="font-display italic text-white text-sm md:text-base leading-tight translate-y-1 group-hover:translate-y-0 transition-transform duration-300">
               {artwork.title}
-            </div>
-          )}
+            </span>
+          </div>
         </div>
-
-        {/* 호버 오버레이 */}
-        <div className="artwork-card-overlay">
-          <span className="font-display italic text-base leading-tight">{artwork.title}</span>
+      ) : (
+        /* 이미지 로드 실패 플레이스홀더 */
+        <div className="w-full aspect-[3/4] flex flex-col items-center justify-center bg-stone-100 text-stone-300 gap-2 p-4">
+          <div className="w-8 h-8 rounded-full border border-stone-200" />
+          <span className="text-xs tracking-wider text-center">{artwork.title}</span>
         </div>
-      </div>
+      )}
     </Link>
   )
 }

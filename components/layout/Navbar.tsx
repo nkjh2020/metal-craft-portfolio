@@ -22,7 +22,7 @@ export default function Navbar() {
   }
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-stone-100">
+    <header className="fixed top-0 left-0 right-0 z-50 border-b border-stone-200/60" style={{ backgroundColor: 'rgba(245,241,234,0.96)', backdropFilter: 'blur(8px)' }}>
       <nav className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
         {/* 로고 */}
         <Link
